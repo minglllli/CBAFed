@@ -7,6 +7,10 @@ This is the PyTorch implementation of paper "[Class Balanced Adaptive Pseudo Lab
 
 
 ## Run the code
+```
+python train_main.py
+```
+
 
 
 ## Citation
